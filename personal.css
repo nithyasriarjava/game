@@ -1,0 +1,61 @@
+.display{
+    display: none;
+}
+
+body{
+    background-color: rgb(198, 160, 234);
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    display:flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#msg{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#gamebtn{
+    background-color:blueviolet;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+label{
+    color: rgb(18, 16, 19);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#player{
+    background-color: blueviolet;
+    border-bottom: 1px solid black;
+    border-top: none;
+    border-left: none;
+}
+
+#seebtn{
+    background-color:blueviolet;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#nextWelcome{
+    background-color:blueviolet;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#secret{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#loveMsg{
+    width:300px;
+    height: 300px;
+}
